@@ -1,1 +1,2 @@
-Check if verfieid
+Check if verified 
+commit 
